@@ -11,9 +11,9 @@ taxonomy:
 media: video
 ---
 
-**Hello!** Ea feugiat verterem quo! Nisl meliore consectetuer mei cu, sed eligendi theophrastus interpretaris at. No prompta atomorum mel. Est eius adipisci ne! Voluptua deserunt cum te.
+**Hello Friend!** Ea feugiat verterem quo! Nisl meliore consectetuer mei cu, sed eligendi theophrastus interpretaris at. No prompta atomorum mel. Est eius adipisci ne! Voluptua deserunt cum te.
 
-Ut wisi saepe instructior pro, te possit salutatus his! Ne cum stet prompta! Ea commodo legendos pri. Vis idque vivendo eu, vix at essent blandit? Vim consul dolorum quaestio ex, nec ex voluptaria argumentum! Torquatos disputando ex vel. Cetero pertinacia duo et!
+**Ut wisi saepe instructior pro**, te possit salutatus his! Ne cum stet prompta! Ea commodo legendos pri. Vis idque vivendo eu, vix at essent blandit? Vim consul dolorum quaestio ex, nec ex voluptaria argumentum! Torquatos disputando ex vel. Cetero pertinacia duo et!
 
 An propriae argumentum est. Facete intellegebat cum no, no vix explicari conclusionemque! At qui fuisset delectus, mea argumentum conclusionemque ne. Est ne mundi similique complectitur, ea graecis consequat vis! Idque scribentur et pro, ex mutat commodo dolorum vel, cum an regione incorrupte.
 
