@@ -21,7 +21,7 @@ media: video
 
 An propriae argumentum est. Facete intellegebat cum no, no vix explicari conclusionemque! At qui fuisset delectus, mea argumentum conclusionemque ne. Est ne mundi similique complectitur, ea graecis consequat vis! Idque scribentur et pro, ex mutat commodo dolorum vel, cum an regione incorrupte.
 
-#### Pro sint modus ne
+#### Pro Masternode
 
 Nec brute signiferumque te, magna mutat lorem mei an. Et cum ubique erroribus percipitur, an his enim putant prodesset, et erant dicit sententiae quo. Fierent elaboraret vix an, ea eam simul adolescens consetetur?
 
