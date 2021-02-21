@@ -1,5 +1,5 @@
 ---
-title: Coinomi
+title: 'Coinomi Wallet'
 date: '01-07-2014 00:00'
 taxonomy:
     category:
