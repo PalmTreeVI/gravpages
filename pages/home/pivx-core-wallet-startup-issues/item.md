@@ -6,6 +6,7 @@ taxonomy:
         - 'Core Wallet'
     tag:
         - wallet
+        - error
     author:
         - 'Darren Day'
 ---
