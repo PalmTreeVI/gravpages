@@ -11,12 +11,12 @@ taxonomy:
         - 'Alice Adams'
 ---
 
-Introduction
+#### Introduction
 
 This tutorial will guide you in detail through the steps necessary to setup a PIVX masternode on Ubuntu 18.04 64-bit remote server (VPS) that is controlled via your local Control wallet. Your local wallet is not required to be kept open and you can store it as a cold wallet whilst still collecting masternode payments. There are other ways to setup masternode, but this one is highly recommended as it’s one of the most secure ways. If you need any additional help, feel free to join PIVX Discord and ask for a help in #support channel. DO NOT receive any help or assistance through private messages, because there are many impersonators showing up as PIVX team members that are trying to steal coins from you! They might look legit, but it’s high likely they are scammers. No one ever from PIVX team will contact you privately and offer you help. Every help will be offered in public support channel!
 
 
-Basic requirements:
+#### Basic requirements:
 
 
     Local system – your everyday computer, which will run Control wallet and hold the masternode coins
@@ -25,12 +25,12 @@ Basic requirements:
     Latest PIVX Core wallet release: v5.0.1
     10,000 PIVX (good to have 10,001 to make sure you can cover transaction fee)
 
-(NOTE: You will need a different IP address for each masternode you plan to host.)
+> (NOTE: You will need a different IP address for each masternode you plan to host.)
 
 
 Configuration of your Control wallet
 
-Step 1 – Download PIVX wallet
+**Step 1** – Download PIVX wallet
 
 
 Download the most recent version of the PIVX Core wallet here:
@@ -38,7 +38,7 @@ Download the most recent version of the PIVX Core wallet here:
 https://github.com/PIVX-Project/PIVX/releases/latest
 
 
-Step 2 – Extract and install the wallet
+**Step 2** – Extract and install the wallet
 
 
 Choose the proper version for your operating system. Extract it, install and run the wallet. After starting the wallet for the first time, it will offer you to make a default PIVX data directory. Depending on your operating system, the default directory should be similar to:
@@ -51,7 +51,7 @@ The above example of default directory is Windows based.
 If you choose your own location ensure that you record where that is.
 
 
-Step 3 – Create a Masternode using Creation Wizard
+**Step 3** – Create a Masternode using Creation Wizard
 
 
 First of all, make sure that you have 10,000 PIV in your wallet (in fact, 10,001 PIV to make sure you are able to cover the transaction fees).
@@ -75,9 +75,7 @@ First of all, make sure that you have 10,000 PIV in your wallet (in fact, 10,001
 We will get back here to Control wallet little bit later after we setup VPS.
 
 
-
-
-VPS Remote wallet installation
+#### VPS Remote wallet installation
 
 These procedures are for a clean server install. If you have an existing installation then some steps may not be required. Performing the steps is unlikely to have any effect on the system. Securing the server has NOT been included in this tutorial. That is your responsibility. Although it’s not required, a great guide can be found here to assist you.
 
@@ -85,7 +83,7 @@ These procedures are for a clean server install. If you have an existing install
 To be able to access a VPS, you need a software/SSH client like PuTTY for example. You can choose between alternatives as well, but this tutorial will not include installation of such software. After you successfully login to your VPS, follow the further steps.
 
 
-Step 1 – Install most recent security patches
+**Step 1** – Install most recent security patches
 
 
 A clean server install will likely need some software updates. Enter the following command which will bring the system up to date:
