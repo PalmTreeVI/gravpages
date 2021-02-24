@@ -28,7 +28,7 @@ This tutorial will guide you in detail through the steps necessary to setup a PI
 > (NOTE: You will need a different IP address for each masternode you plan to host.)
 
 
-Configuration of your Control wallet
+#### Configuration of your Control wallet
 
 **Step 1** – Download PIVX wallet
 
