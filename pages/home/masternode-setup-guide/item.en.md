@@ -19,11 +19,11 @@ This tutorial will guide you in detail through the steps necessary to setup a PI
 #### Basic requirements:
 
 
-    Local system – your everyday computer, which will run Control wallet and hold the masternode coins
-    Remote VPS with Ubuntu Server 18.04 64-bit OS installed with unique IP address that is running 24/7
-    Minimum VPS specs: 50 GB of storage space, 2 GB of RAM, 1 dedicated CPU core
-    Latest PIVX Core wallet release: v5.0.1
-    10,000 PIVX (good to have 10,001 to make sure you can cover transaction fee)
+* Local system – your everyday computer, which will run Control wallet and hold the masternode coins
+* Remote VPS with Ubuntu Server 18.04 64-bit OS installed with unique IP address that is running 24/7
+* Minimum VPS specs: 50 GB of storage space, 2 GB of RAM, 1 dedicated CPU core
+* Latest PIVX Core wallet release: v5.0.1
+* 10,000 PIVX (good to have 10,001 to make sure you can cover transaction fee)
 
 > (NOTE: You will need a different IP address for each masternode you plan to host.)
 
