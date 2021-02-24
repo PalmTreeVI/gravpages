@@ -3,7 +3,10 @@ title: 'Masternode Setup Guide'
 date: '01-01-2014 00:00'
 taxonomy:
     category:
-        - 'Core Wallet'
+        - Masternodes
+    tag:
+        - masternode
+        - vps
     author:
         - 'Alice Adams'
 ---
