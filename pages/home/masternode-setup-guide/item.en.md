@@ -1,6 +1,6 @@
 ---
 title: 'Masternode Setup Guide'
-date: '01-01-2014 00:00'
+date: '24-02-2021 19:24'
 taxonomy:
     category:
         - Masternodes
