@@ -26,8 +26,6 @@ This tutorial will guide you in detail through the steps necessary to setup a PI
 * 10,000 PIVX (good to have 10,001 to make sure you can cover transaction fee)
 
 !! (NOTE: You will need a different IP address for each masternode you plan to host.)  
-!! ##### This is a test  
-!! **Line 3 test**  
 
 #### Configuration of your Control wallet
 
