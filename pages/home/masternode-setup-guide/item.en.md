@@ -25,7 +25,7 @@ This tutorial will guide you in detail through the steps necessary to setup a PI
 * Latest PIVX Core wallet release: v5.0.1
 * 10,000 PIVX (good to have 10,001 to make sure you can cover transaction fee)
 
-> (NOTE: You will need a different IP address for each masternode you plan to host.)
+!!! (NOTE: You will need a different IP address for each masternode you plan to host.)
 
 
 #### Configuration of your Control wallet
