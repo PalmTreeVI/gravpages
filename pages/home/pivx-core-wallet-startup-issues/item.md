@@ -22,12 +22,12 @@ An abnormal exit of the wallet could result in corruption of your local blockcha
 
 **Method 1**
 
-Make a backup of your wallet.dat file and zPIV seed (Best practices)  
-Make sure you are running the latest PIVX Core software  
-Try using the -forcestart startup flag to see if it will recover from a failed start.  
-In the Windows GUI, you will need to make a shortcut to the pivx-qt.exe file  
-Then, edit the shortcut properties and append it to the end of the "Target" field, so that the end reads:pivx-qt.exe" -forcestart
-From the command line on all operating systems you can call the pivxd daemon with the switch -forcestart
+  Make a backup of your wallet.dat file and zPIV seed (Best practices)  
+  Make sure you are running the latest PIVX Core software  
+  Try using the -forcestart startup flag to see if it will recover from a failed start.  
+  In the Windows GUI, you will need to make a shortcut to the pivx-qt.exe file  
+  Then, edit the shortcut properties and append it to the end of the "Target" field, so that the end reads:pivx-qt.exe" -forcestart
+  From the command line on all operating systems you can call the pivxd daemon with the switch -forcestart
 
 **Method 2**
 
