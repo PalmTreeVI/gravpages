@@ -17,7 +17,7 @@ media: video
 
 **Hello Friends!** _Ea feugiat verterem quo!_ Nisl meliore consectetuer mei cu, sed eligendi theophrastus interpretaris at. No prompta atomorum mel. Est eius adipisci ne! Voluptua deserunt cum te.
 
-![](https://www.flickr.com/photos/chris_gin/6585842063)
+[plugin:embed](http://url.you/want/to/embed)
 
 **Ut wisi saepe instructior pro**, te possit salutatus his! Ne cum stet prompta! Ea commodo legendos pri. Vis idque vivendo eu, vix at essent blandit? ~~Vim consul dolorum quaestio ~~ex, nec ex voluptaria argumentum! Torquatos disputando ex vel. Cetero pertinacia duo et!
 
