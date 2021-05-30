@@ -15,9 +15,9 @@ media: video
 
 #### Small Title
 
-**Hello Friends!** _Ea feugiat verterem quo!_ Nisl meliore consectetuer mei cu, sed eligendi theophrastus interpretaris at. No prompta atomorum mel. Est eius adipisci ne! Voluptua deserunt cum te.
+**Hello Friends!** _Ea feugiat verterem quo!_ Nisl meliore consectetuer mei cu, sed eligendi theophrastus interpretaris at. No prompta atomorum mel. Est eius adipisci ne! Voluptua deserunt cum te.  
 
-[plugin:embed](https://www.youtube.com/watch?v=2aV7xpkuID8)
+[plugin:embed](https://www.youtube.com/watch?v=2aV7xpkuID8)  
 
 **Ut wisi saepe instructior pro**, te possit salutatus his! Ne cum stet prompta! Ea commodo legendos pri. Vis idque vivendo eu, vix at essent blandit? ~~Vim consul dolorum quaestio ~~ex, nec ex voluptaria argumentum! Torquatos disputando ex vel. Cetero pertinacia duo et!
 
